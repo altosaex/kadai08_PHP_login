@@ -9,7 +9,9 @@ https://github.com/altosaex/kadai08_PHP-shadcnUI
 
 ## DEMO
 
-http://localhost/10_PHP_crud/public/signup_form.phpより新規登録してご確認ください。
+http://localhost/10_PHP_crud/public/signup_form.php
+
+より新規登録してご確認ください。
 
 ## 紹介と使い方
 
